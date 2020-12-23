@@ -1,0 +1,13 @@
+
+.nav-link:hover{
+    margin: 0;
+    padding: 0;
+    border-bottom: 3px solid green;
+}
+
+
+.active{
+    margin: 0;
+    padding: 0;
+    border-bottom: 3px solid green;
+}
